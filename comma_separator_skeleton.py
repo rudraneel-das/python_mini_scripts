@@ -33,6 +33,7 @@ llll00000yykiy  hhrtygf    headers=['colA','colB',    hhhh|12358|   jk|  |poiuyt
                              'colC','colD','colE']    llll|00000|yykiy|  |hhrtygf
                                 separator='|'
 
+Author: Rudraneel Das
 """
 
 import os
